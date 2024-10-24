@@ -1,5 +1,5 @@
 <?php 
-function square(float|int $v): int|float {
+function square(mixed $v): mixed {
     return $v ** 2;
 }
 echo "square(2) = ".square(2)."<br/>";
