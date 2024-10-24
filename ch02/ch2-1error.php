@@ -6,7 +6,7 @@
 </head>
 <body>
 <?php
-begin = 12;
+$begin = 12;
 $end = 18;
 for ($i = $begin; $i <= $end; $i += 3) {
 ?>
