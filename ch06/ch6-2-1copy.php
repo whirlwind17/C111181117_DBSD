@@ -4,7 +4,7 @@ function printHeader() {
    echo "<hr/>";
 }
 function printFooter() {
-   print "<hr/>(c)Copyright by 黃冠倫<br/>";
+   print "<hr/>(c)Copyright by 黃冠倫 & C111181117<br/>";
 }
 ?>
 
